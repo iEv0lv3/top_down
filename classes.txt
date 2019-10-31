@@ -1,0 +1,39 @@
+class Book
+  attr_accessor :pages (integer)
+  attr_accessor :author (string)
+  attr_accessor :title (string)
+  attr_accessor :format (string)
+  attr_accessor :banned (boolean)
+  attr_accessor :genre (string)
+  attr_accessor :size (float)
+
+  def turn_page
+    :pages
+  end
+
+  def apply_book_cover
+    :size
+  end
+
+  def find_books_by_author
+    :author
+  end
+
+  def recommend_book
+    :title
+  end
+
+  def read_book
+    :format
+    :pages
+  end
+
+  def open_book
+    :format
+  end
+
+  def check_banned_status
+    :banned
+  end
+
+end
