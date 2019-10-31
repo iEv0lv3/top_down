@@ -1,0 +1,12 @@
+1 Build Campfire
+  1.1 Gather Fuel
+    1.1.1 Locate Fuel
+      1.1.1.1 Pickup Leaves
+      1.1.1.2 Pickup Stick
+      1.1.1.3 Pickup Logs
+  1.2 Gather Tools
+    1.2.1 Locate Tools
+  1.3 Fuel Viability
+  1.4 Return Fuel
+  1.5 Return Tools
+2 Fire Location
